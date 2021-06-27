@@ -1,0 +1,4 @@
+#Mon Jun 28 01:22:25 TRT 2021
+base.0=/home/abdullah/Belgeler/AndroiProject/GetX/examp_1/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
